@@ -1,0 +1,14 @@
+{
+  "name": "login_page_project",
+  "version": "1.0.0",
+  "description": "This is a simple login page designed using TailwindCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyam Bhattacharya",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
